@@ -21,12 +21,12 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 ### PostgreSQL
 ### Sequelize
 ### GIT
-Claramente incluyendo HTML y CSS
+### Claramente incluyendo HTML y CSS
 
 Entre otras herramientas, también tengo conocimiento en Photoshop, Illustrator y Figma para el diseño visual de material
 
 No dudes en contactarme!
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-###Linkedin: https://www.linkedin.com/in/gonzalo-calder%C3%B3n/
+### Linkedin: https://www.linkedin.com/in/gonzalo-calder%C3%B3n/
 ### Correo: gonzacalderon13788@gmail.com
