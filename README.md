@@ -14,13 +14,13 @@ No solo disfruto de la programacion por la cantidad de demanda que hay en el mer
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
 
-**Javascript
-React.js
-Node.js
-Express.js
-PostgreSQL
-Sequelize
-GIT
+### Javascript
+### React.js
+### Node.js
+### Express.js
+### PostgreSQL
+### Sequelize
+### GIT
 Claramente incluyendo HTML y CSS
 
 Entre otras herramientas, también tengo conocimiento en Photoshop, Illustrator y Figma para el diseño visual de material
@@ -28,5 +28,5 @@ Entre otras herramientas, también tengo conocimiento en Photoshop, Illustrator 
 No dudes en contactarme!
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-**Linkedin: https://www.linkedin.com/in/gonzalo-calder%C3%B3n/
-**Correo: gonzacalderon13788@gmail.com
+###Linkedin: https://www.linkedin.com/in/gonzalo-calder%C3%B3n/
+### Correo: gonzacalderon13788@gmail.com
