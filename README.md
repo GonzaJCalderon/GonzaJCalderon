@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Gonzalo Calderón</h1>
 <h3 align="center">Soy un Programador Fullstack orientado al diseño Front-end y creación de material visual.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/? username=gonzajcalderon" alt="gonzajcalderon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/? username=gonzajcalderon" alt="GonzaJCalderon" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Países](https://github.com/GonzaJCalderon/Countries)
 
