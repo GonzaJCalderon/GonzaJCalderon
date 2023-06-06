@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Países](https://github.com/GonzaJCalderon/Countries)
 
-- 👯 Estoy buscando colaborar en [Serendipia](https://github.com/pfbooks/pfbooks)
+- 👯 colabore en [Serendipia](https://github.com/pfbooks/pfbooks)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.linkedin.com/in/gonzalo-calder%C3%B3n/ ](https://www.linkedin.com/in/gonzalo-calder%C3%B3n/)
 
