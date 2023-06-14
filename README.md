@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Serendipia](https://github.com/pfbooks/pfbooks)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gonzalo-calder%C3%B3n/](https://www.linkedin.com/in/gonzalo-calder%C3%B3n/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gonzalojcalderon/ (https://www.linkedin.com/in/gonzalojcalderon/)
 
 - 📫 How to reach me **gonzacalderon13788@gmail.com**
 
