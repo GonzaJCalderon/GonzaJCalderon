@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzajcalderon" alt="gonzajcalderon" /></a> </p>
 
-- 🔭 I’m currently working on [Conuntries](https://github.com/GonzaJCalderon/Countries)
+- 🔭 I’m currently working on [Countries](https://github.com/GonzaJCalderon/Countries)
 
 - 👯 I’m looking to collaborate on [Serendipia](https://github.com/pfbooks/pfbooks)
 
