@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gjcalderonportfolio.netlify.app/ (https://www.linkedin.com/in/gonzalojcalderon/)
 
-- 📫 How to reach me **gonzacalderon13788@gmail.com**
+- 📫 How to reach me **gcalderondev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
