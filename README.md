@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzajcalderon" alt="gonzajcalderon" /></a> </p>
 
-- 🔭 I’m currently working on [Reegistro de Bienes Muebles](https://bienesmueblesfront.vercel.app/home)
-
-- 👯 I’m looking to collaborate on [Remenofe](https://sistemas.seguridad.mendoza.gov.ar/catalogo)
-
 - 👨‍💻 All of my projects are available at [https://gjcalderonportfolio.netlify.app/ (https://www.linkedin.com/in/gonzalojcalderon/)
 
 - 📫 How to reach me **gcalderondev@gmail.com**
